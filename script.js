@@ -26,7 +26,8 @@ document.addEventListener("DOMContentLoaded", function () {
     "Every journey begins with a single step. We just have to have patience. – Milly Thompson",
     "Miracles don’t happen by just sitting around. We have to make them happen ourselves. – Kiyoshi Fujino",
     "Sometimes I do feel like I’m a failure. Like there’s no hope for me. But even so, I’m not gonna give up. Ever! – Izuku Midoriya",
-    "The only thing we’re allowed to do is to believe that we won’t regret the choice we made. – Levi Ackerman"
+    "The only thing we’re allowed to do is to believe that we won’t regret the choice we made. – Levi Ackerman",
+    "Fear is not evil. It tells you what weakness is. And once you know your weakness, you can become stronger as well as kinder. - Gildarts Clive"
   ];
 
   const quoteDisplay = document.getElementById("quoteDisplay");
